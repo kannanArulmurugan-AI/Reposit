@@ -4,7 +4,7 @@
 # import threading
 # import re
 
-# # Global list to keep track of processes
+# # Globallist to keep track of processes
 # processes = []
 
 # def update_progress(process, progress_bar, percentage_label):
