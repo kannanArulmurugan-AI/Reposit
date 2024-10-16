@@ -13,7 +13,7 @@
 #     """
 #     for line in process.stdout:
 #         line = line.decode('utf-8').strip()
-#         # Extract the percentage from yt-dlp output (e.g., "50.0%")
+#         # Extract the percentage from yt-dlp output (e.g.,"50.0%")
 #         match = re.search(r"(\d{1,3}\.\d)%", line)
 #         if match:
 #             percentage = float(match.group(1))
